@@ -1,0 +1,4 @@
+source 'https://supermarket.chef.io'
+
+metadata
+cookbook 'jmeter' , git: 'https://github.com/johnbellone/jmeter-cookbook.git'
